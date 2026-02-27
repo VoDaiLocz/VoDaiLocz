@@ -1,7 +1,7 @@
 @echo off
 echo 🚀 Auto-pushing to GitHub Profile Repository...
 echo.
-echo Waiting for repository locfaker/locfaker to be created...
+echo Waiting for repository VoDaiLocz/VoDaiLocz to be created...
 echo.
 
 :retry
@@ -10,7 +10,7 @@ git push -u origin main
 if %errorlevel% == 0 (
     echo.
     echo ✅ SUCCESS! Your GitHub profile has been updated!
-    echo 🌟 Visit: https://github.com/locfaker/locfaker
+    echo 🌟 Visit: https://github.com/VoDaiLocz/VoDaiLocz
     echo.
     pause
     exit

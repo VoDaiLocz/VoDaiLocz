@@ -6,7 +6,7 @@
 
 1. Tạo repository mới với tên trùng với username GitHub của bạn:
    - Nếu username là `Vudangkhoa0910` → tạo repo `Vudangkhoa0910`
-   - Nếu username là `locfaker` → tạo repo `locfaker`
+   - Nếu username là `VoDaiLocz` → tạo repo `VoDaiLocz`
 
 2. Copy nội dung từ file README.md và paste vào repository đó
 

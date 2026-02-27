@@ -19,12 +19,12 @@ git push -u origin main
 if %errorlevel% == 0 (
     echo.
     echo ✅ SUCCESS! Your GitHub profile has been updated!
-    echo 🌟 Visit: https://github.com/locfaker
+    echo 🌟 Visit: https://github.com/VoDaiLocz
     echo.
 ) else (
     echo.
     echo ❌ Push failed. Please check:
-    echo 1. Repository 'locfaker' exists on GitHub
+    echo 1. Repository 'VoDaiLocz' exists on GitHub
     echo 2. You have push permissions
     echo 3. Internet connection is stable
     echo.

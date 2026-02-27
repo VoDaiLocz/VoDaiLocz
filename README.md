@@ -23,27 +23,27 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/locfaker/locfaker/raw/main/assets/separator.gif" width="100%">
+  <img src="https://github.com/VoDaiLocz/VoDaiLocz/raw/main/assets/separator.gif" width="100%">
 </div>
 
 
 
 <div align="center">
-  <img src="https://github.com/locfaker/locfaker/raw/main/assets/separator.gif" width="100%">
+  <img src="https://github.com/VoDaiLocz/VoDaiLocz/raw/main/assets/separator.gif" width="100%">
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/locfaker/locfaker/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/locfaker/locfaker/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/locfaker/locfaker/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VoDaiLocz/VoDaiLocz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VoDaiLocz/VoDaiLocz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VoDaiLocz/VoDaiLocz/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/locfaker/locfaker/main/assets/music-wave.svg" width="400" alt="Music Visualizer" />
+  <img src="https://raw.githubusercontent.com/VoDaiLocz/VoDaiLocz/main/assets/music-wave.svg" width="400" alt="Music Visualizer" />
 </div>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=locfaker&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VoDaiLocz&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <br/>
